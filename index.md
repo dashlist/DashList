@@ -1,4 +1,4 @@
 # Knight's DashLists
 # Lists:
-] **Demonlist**
-] **Slayerlist**
+[**Demonlist**](/demonlist.md)
+[**Slayerlist**](slayerlist.md)
