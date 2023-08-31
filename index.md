@@ -1,3 +1,3 @@
 # Lists:
-> [**Demonlist**](/demonlist.md)
+> [**Demonlist**](/demonlist.md)/
 > [**Slayerlist**](/slayers.md)
